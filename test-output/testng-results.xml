@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-26T21:52:26 IST" name="Sample TestNG Suite" finished-at="2022-12-26T21:52:50 IST" duration-ms="23417">
+  <suite started-at="2022-12-27T17:46:53 IST" name="Sample TestNG Suite" finished-at="2022-12-27T17:47:12 IST" duration-ms="18469">
     <groups>
     </groups>
-    <test started-at="2022-12-26T21:52:26 IST" name="Test Automation" finished-at="2022-12-26T21:52:50 IST" duration-ms="23417">
+    <test started-at="2022-12-27T17:46:53 IST" name="Test Automation" finished-at="2022-12-27T17:47:12 IST" duration-ms="18469">
       <class name="test.TestRunnerClass">
-        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:26 IST" name="beforeTestMethod" finished-at="2022-12-26T21:52:27 IST" duration-ms="605" status="PASS">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:46:53 IST" name="beforeTestMethod" finished-at="2022-12-27T17:46:53 IST" duration-ms="171" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTestMethod -->
-        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:27 IST" name="beforeMethodMethod" finished-at="2022-12-26T21:52:38 IST" duration-ms="10775" status="PASS">
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:46:53 IST" name="beforeMethodMethod" finished-at="2022-12-27T17:47:00 IST" duration-ms="6059" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,11 +27,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodMethod -->
-        <test-method signature="demoTest1()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:38 IST" name="demoTest1" finished-at="2022-12-26T21:52:38 IST" duration-ms="3" status="PASS">
+        <test-method signature="demoTest1()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:00 IST" name="demoTest1" finished-at="2022-12-27T17:47:00 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demoTest1 -->
-        <test-method is-config="true" signature="AfterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:38 IST" name="AfterMethodMethod" finished-at="2022-12-26T21:52:38 IST" duration-ms="189" status="PASS">
+        <test-method is-config="true" signature="AfterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:00 IST" name="AfterMethodMethod" finished-at="2022-12-27T17:47:00 IST" duration-ms="148" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -42,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethodMethod -->
-        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:38 IST" name="beforeMethodMethod" finished-at="2022-12-26T21:52:42 IST" duration-ms="4484" status="PASS">
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:00 IST" name="beforeMethodMethod" finished-at="2022-12-27T17:47:04 IST" duration-ms="4167" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -58,11 +58,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodMethod -->
-        <test-method signature="demoTest2()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:42 IST" name="demoTest2" finished-at="2022-12-26T21:52:42 IST" duration-ms="5" status="PASS">
+        <test-method signature="demoTest2()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:04 IST" name="demoTest2" finished-at="2022-12-27T17:47:04 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demoTest2 -->
-        <test-method is-config="true" signature="AfterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:42 IST" name="AfterMethodMethod" finished-at="2022-12-26T21:52:42 IST" duration-ms="197" status="PASS">
+        <test-method is-config="true" signature="AfterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:04 IST" name="AfterMethodMethod" finished-at="2022-12-27T17:47:04 IST" duration-ms="124" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -73,7 +73,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethodMethod -->
-        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:42 IST" name="beforeMethodMethod" finished-at="2022-12-26T21:52:47 IST" duration-ms="4346" status="PASS">
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:04 IST" name="beforeMethodMethod" finished-at="2022-12-27T17:47:09 IST" duration-ms="5221" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -89,11 +89,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodMethod -->
-        <test-method signature="loginIntoOrangeHRM()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:47 IST" name="loginIntoOrangeHRM" finished-at="2022-12-26T21:52:49 IST" duration-ms="2303" status="PASS">
+        <test-method signature="loginIntoOrangeHRM()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:09 IST" name="loginIntoOrangeHRM" finished-at="2022-12-27T17:47:11 IST" duration-ms="2236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginIntoOrangeHRM -->
-        <test-method is-config="true" signature="AfterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:49 IST" name="AfterMethodMethod" finished-at="2022-12-26T21:52:49 IST" duration-ms="194" status="PASS">
+        <test-method is-config="true" signature="AfterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:11 IST" name="AfterMethodMethod" finished-at="2022-12-27T17:47:12 IST" duration-ms="125" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -104,7 +104,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterMethodMethod -->
-        <test-method is-config="true" signature="AfterTestMethod()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-26T21:52:49 IST" name="AfterTestMethod" finished-at="2022-12-26T21:52:50 IST" duration-ms="274" status="PASS">
+        <test-method is-config="true" signature="AfterTestMethod()[pri:0, instance:test.TestRunnerClass@e350b40]" started-at="2022-12-27T17:47:12 IST" name="AfterTestMethod" finished-at="2022-12-27T17:47:12 IST" duration-ms="185" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTestMethod -->
